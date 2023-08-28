@@ -1,11 +1,11 @@
 {
-    "name": "Дни навигации ДГТУ & Другое Дело",
-    "short_name": "Дни навигации ДГТУ & Другое Дело",
+    "name": "Дни навигации ДГТУ & VK | Другое Дело",
+    "short_name": "ДН23 & Другое Дело",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "description": "Промо страница для перевода баллов ДН23 в серсис VK | Другое Дело",
     "orientation": "portrait-primary",
     "prefer_related_applications": true,
     "icons": [
