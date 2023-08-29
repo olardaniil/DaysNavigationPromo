@@ -1,13 +1,13 @@
 {
     "name": "Дни навигации ДГТУ & VK | Другое Дело",
-    "short_name": "ДН23 & Другое Дело",
+    "short_name": "ДН23 ДГТУ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#121212",
     "theme_color": "#121212",
     "description": "Промо страница для перевода баллов ДН23 в серсис VK | Другое Дело",
     "orientation": "portrait-primary",
-    "prefer_related_applications": true,
+    "prefer_related_applications": false,
     "icons": [
         {
             "src": "icons/Icon-192.png",
