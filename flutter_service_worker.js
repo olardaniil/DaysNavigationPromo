@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9234194873e6144a11a2a1551105f40
 "assets/assets/fonts/Comfortaa-Medium.ttf": "b08df26bba974c7bf98239928f2871d5",
 "assets/assets/fonts/Comfortaa-Regular.ttf": "177d27c79a33cd336e730e404d28513a",
 "assets/assets/fonts/Comfortaa-SemiBold.ttf": "c9c219a0f8de926a3c38d73992930a74",
-"assets/assets/icons/camera.png": "582598c29bd5c53521515108136c92dd",
+"assets/assets/icons/camera.png": "e59d7f2d514ea8600c4070a15716bf78",
 "assets/assets/icons/dd-logo.png": "2a00fb892ae1c79ffbaab35bfe08b64f",
 "assets/assets/icons/dstu-logo.png": "8584141ecf0fc510fa47335f06322e69",
 "assets/assets/icons/error.png": "f1b5bb6fa306217ff10fab3dcff3ec2a",
@@ -34,9 +34,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9234194873e6144a11a2a1551105f40
 "icons/Icon-512.png": "61719dc6b90a9df9bbcb1b4daadd63e9",
 "icons/Icon-maskable-192.png": "765cf0fb1bde801e65e77837400567e6",
 "icons/Icon-maskable-512.png": "61719dc6b90a9df9bbcb1b4daadd63e9",
-"index.html": "b3a3aed74498378b9f12f4bd9694cbad",
-"/": "b3a3aed74498378b9f12f4bd9694cbad",
-"main.dart.js": "7684a46d0b6e1d8ae919064971310d21",
+"index.html": "6dcf9b42518b7fbc4f56638c22c156d8",
+"/": "6dcf9b42518b7fbc4f56638c22c156d8",
+"main.dart.js": "16178a19fcbeccdaa968f350a778f201",
 "manifest.json": "ee415823374966b8ce55bf115ab2ee72",
 "version.json": "767ba1bc5d897bcff641303008148a92"};
 // The application shell files that are downloaded before a service worker can
