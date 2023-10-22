@@ -21289,7 +21289,7 @@ return A.L(null,r)}})
 return A.M($async$Q_,r)},
 QK(a,b,c){var s=0,r=A.N(t.z),q,p=2,o,n,m,l,k,j
 var $async$QK=A.O(function(d,e){if(d===1){o=e
-s=p}while(true)switch(s){case 0:k=A.cP("https://t-app.ru/api/v1/days-navigation/data-verification/?id="+A.h(a)+"&sum="+A.h(c)+"&sh="+A.h(b),0,null)
+s=p}while(true)switch(s){case 0:k=A.cP("https://t-app.ru/s10/api/v1/days-navigation/data-verification/?id="+A.h(a)+"&sum="+A.h(c)+"&sh="+A.h(b),0,null)
 p=4
 s=7
 return A.D($.am8().jK("GET",k,null),$async$QK)
@@ -21312,7 +21312,7 @@ case 2:return A.K(o,r)}})
 return A.M($async$QK,r)},
 AE(a,b,c,d){var s=0,r=A.N(t.z),q,p=2,o,n,m,l,k,j
 var $async$AE=A.O(function(e,f){if(e===1){o=f
-s=p}while(true)switch(s){case 0:k=A.cP("https://t-app.ru/api/v1/days-navigation/points/?id="+A.h(a)+"&sum="+A.h(c)+"&sh="+A.h(b)+"&vkid="+d,0,null)
+s=p}while(true)switch(s){case 0:k=A.cP("https://t-app.ru/s10/api/v1/days-navigation/points/?id="+A.h(a)+"&sum="+A.h(c)+"&sh="+A.h(b)+"&vkid="+d,0,null)
 p=4
 s=7
 return A.D($.am9().jK("GET",k,null),$async$AE)
@@ -21335,7 +21335,7 @@ case 2:return A.K(o,r)}})
 return A.M($async$AE,r)},
 QL(a){var s=0,r=A.N(t.z),q,p,o
 var $async$QL=A.O(function(b,c){if(b===1)return A.K(c,r)
-while(true)switch(s){case 0:p=A.cP("https://t-app.ru/api/v1/days-navigation/vk/auth/"+A.h(a),0,null)
+while(true)switch(s){case 0:p=A.cP("https://t-app.ru/s10/api/v1/days-navigation/vk/auth/"+A.h(a),0,null)
 s=3
 return A.D($.ama().jK("GET",p,null),$async$QL)
 case 3:o=c
@@ -21346,7 +21346,7 @@ case 1:return A.L(q,r)}})
 return A.M($async$QL,r)},
 rL(a){var s=0,r=A.N(t.z),q,p=2,o,n,m,l,k,j,i
 var $async$rL=A.O(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:j=A.cP("https://t-app.ru/api/v1/days-navigation/vk/user/"+A.h(a),0,null)
+s=p}while(true)switch(s){case 0:j=A.cP("https://t-app.ru/s10/api/v1/days-navigation/vk/user/"+A.h(a),0,null)
 p=4
 s=7
 return A.D($.amb().jK("GET",j,null),$async$rL)
